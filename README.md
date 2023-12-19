@@ -1,1 +1,2 @@
 # join.html
+test
